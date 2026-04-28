@@ -17,12 +17,6 @@
       <td>Oct 2025 – Present</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ThomasNotTom/alpha-game-engine">alpha-game-engine</a></td>
-      <td>The primitives needed for building a game engine.</td>
-      <td><code>C++</code></td>
-      <td>May 2025 – Present</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ThomasNotTom/Mandelbrot">Mandelbrot</a></td>
       <td>A <a href="https://en.wikipedia.org/wiki/Mandelbrot_set">Mandelbrot Set</a> visualizer.</td>
       <td><code>C++</code></td>
