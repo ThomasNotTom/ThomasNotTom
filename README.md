@@ -11,16 +11,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ThomasNotTom/virtual-machine">virtual-machine</a></td>
-      <td>A minimal virtual machine.</td>
-      <td><code>C++</code></td>
-      <td>Oct 2025 – Present</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/ThomasNotTom/Mandelbrot">Mandelbrot</a></td>
       <td>A <a href="https://en.wikipedia.org/wiki/Mandelbrot_set">Mandelbrot Set</a> visualizer.</td>
       <td><code>C++</code></td>
       <td>Oct 2023 – Nov 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ThomasNotTom/language">Language</a></td>
+      <td>A custom program language with compiler.</td>
+      <td><code>C++</code></td>
+      <td>May 2024 - Present</td>
     </tr>
   </tbody>
 </table>
