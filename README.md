@@ -20,7 +20,7 @@
       <td><a href="https://github.com/ThomasNotTom/language">Language</a></td>
       <td>A custom program language with compiler.</td>
       <td><code>C++</code></td>
-      <td>May 2024 - Present</td>
+      <td>May 2026 - Present</td>
     </tr>
   </tbody>
 </table>
